@@ -1,8 +1,7 @@
-# VPS 出口切换 Telegram Bot
+# Uzumaru Globe 出口切换 Telegram Bot
 
-**一个轻量级 Telegram 机器人**，通过 SSH 远程控制你的 VPS，实现**一键切换出口节点**、查看当前 IP、批量检测所有节点可用性等功能。
+**一个轻量级 Telegram 机器人**，通过 SSH 远程控制你的 VPS，实现**一键切换Uzumaru Globe出口节点**、查看当前 IP、批量检测所有节点可用性等功能。
 
-专为需要频繁切换出口（如 Uzmaru / 多线路 VPS）用户设计，带详细日志和 Markdown 美化输出。
 
 ---
 
